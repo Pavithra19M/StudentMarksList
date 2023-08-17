@@ -1,0 +1,41 @@
+h1{
+  color:rgb(9, 56, 82) !important;
+  margin-top: 1rem !important;
+}
+
+.label-style{
+  color:rgb(9, 56, 82);
+  font-size:large;
+  font-weight: bold;
+}
+
+.btn-style{
+  margin-top: 1.5rem;
+}
+
+.div-style{
+  background-color: rgb(9, 56, 82);
+  padding-left: 1rem;
+}
+
+h3{
+  color: aliceblue !important;
+  padding-top: 1rem !important;
+}
+
+p{
+  color: aliceblue;
+  font-size: large;
+}
+
+hr{
+  color:aliceblue !important;
+  margin-right:1rem !important;
+}
+
+h5{
+  color: aliceblue !important;
+  font-size: larger;
+  font-weight: 800;
+  margin-left: -1rem !important;
+}
